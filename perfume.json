@@ -1,0 +1,97 @@
+{
+  "ALLURE_HOMME_SPORT": {
+    "brand": "CHANEL",
+    "category": "Eau de Toilette",
+    "notes": {
+      "top": [
+        "Mandarin"
+      ],
+      "middle": [
+        "Cedar"
+      ],
+      "base": [
+        "White Musk"
+      ]
+    },
+    "img": "https://www.chanel.com/images//t_one//w_0.51,h_0.51,c_crop/q_auto:good,f_jpg,fl_lossy,dpr_1.2/w_1240/allure-homme-sport-eau-de-toilette-spray-3-4fl-oz--packshot-default-123630-8831021776926.jpg",
+    "link": "https://www.chanel.com/us/fragrance/p/123630/allure-homme-sport-eau-de-toilette-spray/"
+  },
+  "L'OMBRE_DANS_L'EAU": {
+    "brand": "DIPTYQUE",
+    "category": "Eau de Perfume",
+    "notes (copy)": {
+      "top": [
+        "Blackcurrant",
+        "Ivy"
+      ],
+      "middle": [
+        "Coriander",
+        "Freesia",
+        "Hyacinth",
+        "Bulgarian rose"
+      ],
+      "base": [
+        "Cedar",
+        "Musk"
+      ]
+    },
+    "img": "https://d1wwvmedxjfrrp.cloudfront.net/catalog/product/cache/8bbdf3786ba894b0c651f21d67cb017c/l/o/lombre-dans-leau_face_ombrep75_1439x1200_1.png",
+    "link": "https://www.diptyqueparis.com/en_eu/p/l-ombre-dans-l-eau-eau-de-parfum-75ml.html"
+  },
+  "CLEAN_WARM_COTTON": {
+    "brand": "CLEAN",
+    "category": "Eau de Perfume",
+    "notes": {
+      "top": [
+        "Citrus",
+        "Verbena"
+      ],
+      "middle": [
+        "Floral Cotton Accord",
+        "Orange Flowers",
+        "Fruity",
+        "Marine"
+      ],
+      "base": [
+        "Musk",
+        "Amber"
+      ]
+    },
+    "img": "https://cdn.shopify.com/s/files/1/0123/4314/8608/products/Clean_Classic_WarmCotton_600x.png?v=1600952432",
+    "link": "https://www.cleanbeauty.com/products/clean-classic-warm-cotton?_pos=2&_sid=d221bc3aa&_ss=r"
+  },
+  "BLACKBERRY_AND_BAY": {
+    "brand": "JO MALONE",
+    "category": "Eau de Cologne",
+    "notes": {
+      "top": [
+        "Blackberry"
+      ],
+      "middle": [
+        "Bay Leaves"
+      ],
+      "base": [
+        "Cedarwood"
+      ]
+    },
+    "img": "https://www.jomalone.com/media/export/cms/products/1000x1000/jo_sku_L32R01_1000x1000_0.png",
+    "link": "https://www.jomalone.com/product/25946/23540/colognes/blackberry-bay-cologne?size=100ml"
+  },
+  "BLACK_CEDARWOOD_AND_JUNIPER": {
+    "brand": "JO MALONE",
+    "category": "Eau de Cologne",
+    "notes": {
+      "top": [
+        "Cumin"
+      ],
+      "middle": [
+        "Juniper"
+      ],
+      "base": [
+        "Black Cedarwood"
+      ]
+    },
+    "img": "https://www.jomalone.co.uk/media/export/cms/products/1000x1000/jo_sku_L5G801_1000x1000_0.png",
+    "link": "https://www.jomalone.co.uk/product/25946/41205/colognes/black-cedarwood-juniper-cologne"
+  }
+}
